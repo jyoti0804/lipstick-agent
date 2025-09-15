@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.egg
+*.egg-info/
+*.manifest
+*.spec
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+
+# Packages
+*.whl
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Distribution / build folders
+build/
+dist/
+.eggs/
+*.egg-info/
+*.egg
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VSCode / IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Streamlit cache
+.streamlit/
+
+# Logs
+*.log
+
+# Media / uploaded images (optional, if you have uploads)
+uploads/
+.
