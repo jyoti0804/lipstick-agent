@@ -169,3 +169,4 @@ if use_webcam:
             frame_count += 1
     finally:
         cap.release()
+
